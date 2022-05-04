@@ -38,7 +38,11 @@ div#con10 {
   background-color: lightseagreen;
 }
 
+body {
+  margin: 0;
+}
+
 div {
   width: 100vw;
-  height: 11vh;
+  height: 10vh;
 }
