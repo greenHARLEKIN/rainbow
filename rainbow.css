@@ -1,27 +1,44 @@
 div#con1 {
-  background-color: red;
+  background-color: crimson;
 }
 
 div#con2 {
-  background-color: orange;
+  background-color: red;
 }
 
 div#con3 {
-  background-color: yellow;
+  background-color: darkorange;
 }
 
 div#con4 {
-  background-color: greenyellow;
+  background-color: orange;
 }
 
 div#con5 {
-  background-color: springgreen;
+  background-color: gold;
 }
 
 div#con6 {
-  background-color: darkturquoise;
+  background-color: yellow;
 }
 
 div#con7 {
-  background-color: deepskyblue;
+  background-color: greenyellow;
+}
+
+div#con8 {
+  background-color: springgreen;
+}
+
+div#con9 {
+  background-color: lightseagreen;
+}
+
+div#con10 {
+  background-color: darkturquoise;
+}
+
+div {
+  width: 100vw;
+  height: 11vh;
 }
