@@ -1,2 +1,3 @@
 # rainbow
-css-übung-farben
+
+CSS-Übung für Farben - jetzt wirds bunt!
